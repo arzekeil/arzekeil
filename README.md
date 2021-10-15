@@ -5,7 +5,7 @@
 - 👨‍💻 Computer Science student expected to graduate Augest 2024
 - 🐳 Docker, ⚙ Kubernetes, 🧥 Jenkins everthing CI/CD and automation
 
-## Contact me Here
+## Contact me here
 Feel free to contact me via LinkedIn 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzekeil) 
