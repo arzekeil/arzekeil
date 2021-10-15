@@ -1,12 +1,13 @@
-# Hello! I'm Arzekeil-Abel 
+# Hello! I'm Arzekeil-Abel 👋
 
 ## About me
-- ☁ Cloud Infrastructure / DevOps Engineer
-- 👨‍💻 Computer Science Studen Expected To Graduate Augest 2024
+- ☁ Pursing career as a Cloud Infrastructure / DevOps Engineer
+- 👨‍💻 Computer Science student expected to graduate Augest 2024
 - 🐳 Docker, ⚙ Kubernetes, 🧥 Jenkins everthing CI/CD and automation
 
 ## Contact me Here
-Feel free to contact me via LinkedIn <t/>
+Feel free to contact me via LinkedIn 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzekeil) 
 
 ## Skills
