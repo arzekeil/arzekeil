@@ -1,4 +1,5 @@
 ### Hello! I'm Arzekeil-Abel 
+(647) 209 - 8864 | https://linkedin.com/in/arzekeil
 
 <!--
 **arzekeil/arzekeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
