@@ -10,7 +10,7 @@ Take a look at my website below:
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arzekeil.github.io)
 ## ☎Contact me here
-Feel free to contact me via LinkedIn 
+Feel free to contact me via LinkedIn or Email
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzekeil) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzekeil.abel@gmail.com)  
