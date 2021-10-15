@@ -3,12 +3,14 @@
 ## About me
 - ☁ Pursing career as a Cloud Infrastructure / DevOps Engineer
 - 👨‍💻 Computer Science student expected to graduate Augest 2024
-- 🐳 Docker, ⚙ Kubernetes, 🧥 Jenkins everthing CI/CD and automation
-
+- 🐳 Docker, ⚙ Kubernetes, 🧥 Jenkins everthing CI/CD and automation  
+Take a look at my website ->   
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arzekeil.github.io)
 ## Contact me here
 Feel free to contact me via LinkedIn 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzekeil) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzekeil.abel@gmail.com)  
 
 ## Skills
 ### Languages
@@ -25,6 +27,10 @@ Feel free to contact me via LinkedIn
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windows Termial](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 ## Experience
 
@@ -32,6 +38,7 @@ Feel free to contact me via LinkedIn
 Feel free to connect with me via LinkedIn or through my website <br/> 
 <!--New line--><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzekeil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzekeil.abel@gmail.com) 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arzekeil.github.io)
 
 <!--
