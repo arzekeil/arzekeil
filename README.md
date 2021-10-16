@@ -42,46 +42,6 @@ Feel free to contact me via LinkedIn or Email
 ![Windows Termial](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-## 🛒 Experience
-<!--ICT Network Assistant-->
-<details>
-  <summary><strong>ICT Network Assistant</strong> - <em>Wilfrid Laurier University</em> [Oct 2021 - Dec 2021]</summary>
-  <ul>
-    <li> Executed routine maintenance such as inspection of equipment at various locations. </li>
-    <li> Administered hardware and software assistance to clients remotely and on-site. </li>
-    <li> Ensured that service requests and incidents are logged, assigned, and resolved in accordance with service level agreements and service management best practices. </li>
-    <li> Tracked, documented, and updated hardware and software with the appropriate tools. </li>
-  </ul>
-</details> 
-
-<!--Web Developer-->
-<details>
-  <summary><strong>Web Developer</strong> - <em>Wilfrid Laurier University</em> [Oct 2021 - Dec 2021]</summary>
-  <ul>
-    <li> Re-designed, developed and tested the LCERPA website from start to full production levels. </li>
-    <li> Produced a detailed and extensive wiki document explaining how to further develop, edit and maintain the LCERPA website and how to update and create content on the LCERPA website. </li>
-    <li> Adapted websites to match changing user preferences and client demands with regular updates. </li>
-  </ul>
-</details>  
-
-<!--Quality Assurance Tester-->
-<details>
-  <summary><strong>Quality Assurance Tester</strong> - <em>Knowledge First Financial</em> [May 2021 - Aug 2021]</summary>
-  <ul>
-    <li> Used TestComplete to convert over 95 existing front end unit tests to work with a new React based web application from an ASP.net application. </li>
-    <li> Reviewed existing test cases for adequacy of coverage of different user stories. </li>
-    <li> Diagnosed problems and determined possible solutions in collaboration with team members. </li>
-  </ul>
-</details>  
-
-
-## 📨 How to reach me
-Feel free to connect with me via LinkedIn or through my website <br/> 
-<!--New line--><br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzekeil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzekeil.abel@gmail.com) 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arzekeil.github.io)
-
 <!--
 **arzekeil/arzekeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
