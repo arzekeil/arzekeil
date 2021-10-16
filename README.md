@@ -1,9 +1,9 @@
 # Hello! I'm Arzekeil-Abel 👋
 
 ## 📖 About me
-- ☁ Pursing a career as a Cloud Infrastructure / DevOps Engineer
-- 👨‍💻 Computer Science student expected to graduate Augest 2024
-- 🐳 Docker, ⚙ Kubernetes, 🧥 Jenkins (learning) everthing CI/CD and automation  
+- ☁ Pursing a career as a Cloud Infrastructure / DevOps Engineer.
+- 👨‍💻 Computer Science student expected to graduate Augest 2024.
+- 🐳 Docker, ⚙ Kubernetes, 🧥 Jenkins (learning) everthing CI/CD and automation.  
 
 
 Take a look at my website below:   
