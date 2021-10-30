@@ -2,7 +2,7 @@
 
 ## 📖 About me
 - ☁ Pursing a career as a Cloud Infrastructure / DevOps Engineer.
-- 👨‍💻 Computer Science student expected to graduate Augest 2024.
+- 👨‍💻 Computer Science student expected to graduate August 2024.
 - 🐳 Docker, ⚙ Kubernetes, 🧥 Jenkins (learning) everthing CI/CD and automation.  
 
 
