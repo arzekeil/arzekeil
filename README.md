@@ -42,7 +42,7 @@ I would say I have learnt a lot just by doing. I have contributed to many projec
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-I learned to love automation during my first tech role working as a QA Tester. I found it so cool how I was to be able to run a few commands and then it would complete a bunch of tasks by its self. This is what I am currently learning how to use Docker, Kubernetes, Ansible and Jenkins 2 to become a DevOps Engineer.
+I learned to love automation during my first tech role working as a QA Tester. I found it so cool how I was to be able to run a few commands and then it would complete a bunch of tasks by its self. This is what I am currently learning how to use **Docker**, **Kubernetes**, **Ansible** and **Jenkins 2** to become a DevOps Engineer.
 
 <br>
 
