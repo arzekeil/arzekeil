@@ -8,7 +8,7 @@
   About me 🎙
 </h3>
 <p align="center">
-  My name is Abel and I'm a second year Computer Science student attending Wilfrid Laurier University. I'm interested in everything tech but have found the most   interest in automation. I'm currently looking for internships for the summer 2022 season related to automation, devops engineering and software development.
+  My name is Arzekeil and I'm a second year Computer Science student attending Wilfrid Laurier University. I'm interested in everything tech but have found the most   interest in automation. I'm currently looking for internships for the summer 2022 season related to automation, devops engineering and software development.
 </p>
 <h3 align="center">
   What am I learning?
