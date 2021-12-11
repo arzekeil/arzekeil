@@ -2,11 +2,12 @@
 <img align="left" src="/greetings.png" width="200" height="200" /> 
 
 # Welcome to my GitHub! 👋 #
-Hello there! My name is Arzekeil (pronouced R -- Zee -- Key -- ill) and I'm a second year Computer Science student attending Wilfrid Laurier University. I'm interested in everything tech but have found the most interest in automation. I'm currently looking for internships for the summer 2022 season related to automation, devops engineering and software development.  
+Hello there! My name is Abel and I'm a second year Computer Science student attending Wilfrid Laurier University. I'm interested in everything tech but have found the most interest in automation. I'm currently looking for internships for the summer 2022 season related to automation, devops engineering and software development.  
 
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arzekeil.github.io) -->
 
----
+<br>
+
 <!-- stuff I feel competent at -->
 <img align="right" src="/coffee.png" width="200" height="200" /> 
 
@@ -25,14 +26,13 @@ I would say I have learnt a lot just by doing. I have contributed to many projec
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<br>
+
 <!-- stuff I'm currently learning -->
 <img align="left" src="/studying.png" width="200" height="200" /> 
 
@@ -46,14 +46,15 @@ I learned to love automation during my first tech role working as a QA Tester. I
 
 <br>
 
----
 <!-- contacts -->
 <img align="right" src="/contact.png" width="200" height="200" /> 
 
 ## Contact me here ☎ ##
 
-As stated earlier I am currently looking for an internship for the summer 2022 season that is related to automation, devops engineering and software development. If you found my profile interesting feel free to contact me via the links below and I'll get back to you as soon as possible. Thank you for viewing my profile!
+As stated earlier I am currently looking for an internship for the summer 2022 season that is related to automation, devops engineering and software development. If you found my profile interesting feel free to contact me via the links below and I'll get back to you as soon as possible. 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzekeil.abel@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzekeil) 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arzekeil.github.io/#contact)
+
+<a href="https://github.com/abedmohammed">Inspiried by fellow developer Mohammed Abed</a>
