@@ -29,9 +29,9 @@
 </p>
 
 <!-- projects -->
-<h2 align="center">
+<h3 align="center">
   Projects
-</h2>
+</h3>
 <p align="center">
   <a href="https://github.com/arzekeil/Web_CaesarCipher">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=arzekeil&repo=Web_CaesarCipher&theme=dracula" />
