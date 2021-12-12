@@ -24,6 +24,9 @@
 <div align="center">
   I learned to love automation during my first tech role working as a QA Tester. I found it so cool how I was to be able to run a few commands and then it would complete a bunch of tasks by its self. This is why I'm hoping to learn more Infrastructure as Code technologies and help solve the problem of eliminating or at least reducing latency in software development
 </div>
+
+<br>
+
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=arzekeil.abel@gmail.com" target="_blank"><img src="/gmail.svg" width="40" height="40"></a>
   <a href="https://www.linkedin.com/in/arzekeil/" target="_blank"><img src="/linkedin.svg" width="40" height="40"></a>
