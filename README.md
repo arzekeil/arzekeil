@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  I learned to love automation during my first tech role working as a QA Tester. I found it so cool how I was to be able to run a few commands and then it would complete a bunch of tasks by its self. This is why I'm hoping to learn more Infrastructure as Code technologies and help solve the problem of eliminating or at least reducing latency in software development
+  I learned to love automation during my first tech role working as a QA Tester. I found it so cool how I was to be able to run a few commands and then it would complete a bunch of tasks by its self. This is why I'm hoping to learn more Infrastructure as Code technologies and help solve the problem of eliminating or at least reducing latency in software development.
 </div>
 
 <br>
