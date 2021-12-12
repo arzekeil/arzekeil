@@ -27,3 +27,16 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=arzekeil.abel@gmail.com" target="_blank"><img src="/gmail.svg" width="40" height="40"></a>
   <a href="https://www.linkedin.com/in/arzekeil/" target="_blank"><img src="/linkedin.svg" width="40" height="40"></a>
 </p>
+
+<!-- projects -->
+<h3 align="center">
+  Projects
+</h3>
+<p align="center">
+  <a href="https://github.com/arzekeil/Web_CaesarCipher">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=arzekeil&repo=Web_CaesarCipher&theme=dracula" />
+  </a>
+  <a href="https://github.com/arzekeil/Web_ToDo">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=arzekeil&repo=Web_ToDo&theme=dracula" />
+  </a>
+</p>
