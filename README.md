@@ -11,5 +11,7 @@ I'm currently working at TD Bank as a Quality Engineering intern. Besides that, 
   
 I learned to love automation during my first tech role working as a Quality Engineering intern. I found it so cool how I was to be able to run a few commands and then it would complete a bunch of tasks by its self. This is why I'm hoping to learn more Infrastructure as Code technologies and help solve the problem of eliminating or at least reducing latency in software development.  
   
-[Email Me!](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=arzekeil.abel@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/arzekeil/)  
+### Contact me 📞 + Other links 🔗
+Email Me: arzekeil.abel@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/arzekeil/](https://www.linkedin.com/in/arzekeil/)  
+Personal Website: [https://arzekeil.github.io](https://arzekeil.github.io)
