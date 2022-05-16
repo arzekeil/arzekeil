@@ -14,4 +14,4 @@ I learned to love automation during my first tech role working as a Quality Engi
 ### Contact me 📞 + Other links 🔗
 Email Me: arzekeil.abel@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/arzekeil/](https://www.linkedin.com/in/arzekeil/)  
-Personal Website: [https://arzekeil.github.io](https://arzekeil.github.io)
+Personal Website: [https://www.arzekeil.dev](https://www.arzekeil.dev)
