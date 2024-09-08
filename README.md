@@ -1,9 +1,13 @@
-# Welcome to my GitHub! 👋
-## About me 🎙
-My name is Arzekeil and I'm a third year Computer Science student attending Wilfrid Laurier University. 
+# Hi, I'm Arzekeil 🙋‍♂️  
+
+## About Me 🤗  
+I'm a Computer Science student nearing the completion of my degree at Wilfrid Laurier University, where I'm driven by a passion for transforming data into catalysts for positive change. Whether I’m analyzing complex datasets or scaling new heights on the rock wall, I bring the same energy and determination to every challenge, be it in bouldering, top roping, or uncovering the stories hidden in the numbers.
   
-![](https://komarev.com/ghpvc/?username=arzekeil&color=11999E&style=for-the-badge&label=Total+Visitors)  
-  
-## Contact me 📞 + Other links 🔗
-Email Me: arzekeil.abel@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/arzekeil/](https://www.linkedin.com/in/arzekeil/)
+## My Projects 🛠️  
+
+### [Home Lab]() 🖥️  
+Developed a home lab environment to not only simulate data analysis workflows but allow for some private game server hosting.  
+
+## Reach Out! 🫡  
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arzekeil/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzekeil.abel@gmail.com)
