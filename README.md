@@ -1,7 +1,7 @@
 # 🤗 Hi, I'm Arzekeil  
 
 ## 🫡 About Me  
-I'm a Computer Science student nearing the completion of my degree at Wilfrid Laurier University, where I'm driven by a passion for transforming data into catalysts for positive change. Whether I’m analyzing complex datasets or scaling new heights on the rock wall, I bring the same energy and determination to every challenge, be it in bouldering, top roping, or uncovering the stories hidden in the numbers.
+I'm a Computer Science student nearing the completion of my degree at Wilfrid Laurier University.
   
 ## 🦉 My Projects  
 
