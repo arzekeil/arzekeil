@@ -5,6 +5,9 @@ I'm a Computer Science student nearing the completion of my degree at Wilfrid La
   
 ## 🦉 My Projects  
 
+### 🦆 [Talk to Duckie](https://github.com/arzekeil/talk_to_duckie)
+Winnter of Best use of VoiceFlow (Hack Western 11)
+
 ### 🖥️ [Home Lab](https://github.com/arzekeil/home-lab)  
 Developed a home lab environment to not only simulate data analysis workflows but allow for some private game server hosting
 
