@@ -1,7 +1,7 @@
 # 🤗 Hi, I'm Arzekeil  
 
 ## 🫡 About Me  
-I'm a Computer Science student nearing the completion of my degree at Wilfrid Laurier University
+I'm a recent Computer Science graduate from Wilfrid Laurier University who's passionate about systems engineering and DevOps
   
 ## 🦉 My Projects  
 
