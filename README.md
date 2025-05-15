@@ -1,7 +1,7 @@
 # 🤗 Hi, I'm Arzekeil  
 
 ## 🫡 About Me  
-I'm a recent Computer Science graduate from Wilfrid Laurier University who's passionate about systems engineering and DevOps
+With experience in DevOps, backend development, and quality engineering, I thrive on automating processes and improving system reliability.
   
 ## 🦉 My Projects  
 
